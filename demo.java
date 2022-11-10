@@ -1,7 +1,7 @@
-class demo()
+class Demo()
 {
-	psvm()
+	public static void main()
 	{
-		Sop("git Demo");
+		System.out.println("git Demo");
 	}
 }
